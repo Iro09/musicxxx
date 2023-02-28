@@ -63,7 +63,7 @@ async def init():
     except:
         pass
     await Iro.decorators()
-    LOGGER("Iro").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @cute_boy701")
+    LOGGER("Iro").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @pikk_u")
     await idle()
 
 
